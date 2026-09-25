@@ -1,6 +1,6 @@
 # 🗂️ S3Deck: Desktop Client for S3 & S3-Compatible Storage
 
-![S3Deck Banner](https://s3deck.app/feature_graphic.png)
+![S3Deck Banner](https://s3deck.com/feature_graphic.png)
 
 <a href="https://github.com/s3deck/s3deck/releases/latest"><img src="https://img.shields.io/badge/macOS-Download-a78bfa?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" height="32"></a>
 <a href="https://github.com/s3deck/s3deck/releases/latest"><img src="https://img.shields.io/badge/Windows-Download-a78bfa?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="32"></a>
@@ -50,8 +50,8 @@ If you need private support or have business inquiries, you can reach out to us 
 ---
 
 ### Links
-- [Website](https://s3deck.app/)
-- [Help & Support](https://s3deck.app/help)
-- [Sponsor](https://s3deck.app/sponsor)
-- [Privacy Policy](https://s3deck.app/privacy-policy)
-- [Terms of Service](https://s3deck.app/terms-of-service)
+- [Website](https://s3deck.com/)
+- [Help & Support](https://s3deck.com/help)
+- [Sponsor](https://s3deck.com/sponsor)
+- [Privacy Policy](https://s3deck.com/privacy-policy)
+- [Terms of Service](https://s3deck.com/terms-of-service)
