@@ -6,6 +6,8 @@
 <a href="https://github.com/s3deck/s3deck/releases/latest"><img src="https://img.shields.io/badge/Windows-Download-a78bfa?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" height="32"></a>
 <a href="https://github.com/s3deck/s3deck/releases/latest"><img src="https://img.shields.io/badge/Linux-Download-a78bfa?style=for-the-badge&logo=linux&logoColor=white" alt="Download for Linux" height="32"></a>
 
+<a href="https://apps.microsoft.com/detail/9nqx0jzsl9pv"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" height="48"></a>
+
 Welcome to the official public repository for **S3Deck**!
 *Note: This repository does not contain the application source code. It serves as a centralized hub for our users to download the app, report issues, and request new features.*
 
