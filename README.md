@@ -47,7 +47,7 @@ We want to build the best S3 desktop experience for you. If you encounter any is
 ## 📩 Support & Contact
 
 If you need private support or have business inquiries, you can reach out to us at:
-📧 **Email**: richardpham201@gmail.com
+📧 **Email**: support@richardpham.com
 
 ---
 
